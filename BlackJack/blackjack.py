@@ -1,3 +1,5 @@
+#Version for Cisco Devnet class
+
 from card import Card;
 from deck import Deck;
 import people;
