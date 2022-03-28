@@ -1,4 +1,4 @@
-#Version for Cisco Devnet class Ricardo Mancera
+#Version for Cisco Devnet class Ricardo Mancera test
 
 from card import Card;
 from deck import Deck;
